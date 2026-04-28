@@ -116,7 +116,8 @@ Epic Scape has been deployed in, or is designed for, the following venue types:
 
 ## Pricing
 
-**Epic Scape operates on a **Game-as-a-Service (GaaS)** monthly subscription model. The customer is the venue, not the player.**
+**Epic Scape operates on a *Game-as-a-Service (GaaS)* monthly subscription model. The customer is the venue, not the player.**
+
 ---
 
 ## Roadmap
