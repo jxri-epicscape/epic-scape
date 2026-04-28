@@ -117,17 +117,6 @@ Epic Scape has been deployed in, or is designed for, the following venue types:
 ## Pricing
 
 Epic Scape operates on a **Game-as-a-Service (GaaS)** monthly subscription model. The customer is the venue, not the player.
-
-| Component | Price |
-|---|---|
-| Setup fee | €490–790 *(one-time)* |
-| Monthly subscription | €400–700/mo |
-| Minimum term | 6 or 12 months |
-| Additional language | +€50/mo |
-| Additional puzzle | +€50/mo |
-
-Setup includes game build, staff onboarding, launch social media materials and first-month support. Maintenance, minor content updates and technical support are included in the monthly fee.
-
 ---
 
 ## Roadmap
