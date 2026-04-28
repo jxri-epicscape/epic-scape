@@ -30,7 +30,7 @@ Three statues of Finnish authors stand among the lime trees of Helsinki's centra
 → [espa.epicscape.game](https://espa.epicscape.game)
 
 ### 📚 Rikhardinkatu Library, Helsinki — *The Panda's Tooth Mystery*
-The library's main hall is home to a wooden panda that has lost a tooth — and with it, the library has fallen into chaos. The children's section, the archives, the elevator and the upper floors: each holds a clue. Players work through three mini-tracks before facing the great puzzle that restores order. The library is Epic Scape's longest-running partnership: two years, three contract renewals.
+The library's main hall is home to a wooden panda that has lost a tooth — and with it, the library has fallen into chaos. The children's section, the archives, the elevator and the upper floors: each holds a clue. The library is Epic Scape's longest-running partnership: two years, three contract renewals.
 
 → [riku.epicscape.game](https://riku.epicscape.game)
 
