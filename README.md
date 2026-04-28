@@ -24,12 +24,12 @@ For venues seeking interactive, experiential content for their visitors, Epic Sc
 
 A few examples of tracks currently live:
 
-### 🌳 Esplanade Park, Helsinki — *The Authors' Park*
+###  Esplanade Park, Helsinki — *The Authors' Park*
 Three statues of Finnish authors stand among the lime trees of Helsinki's central park, each facing the same direction. Players walk the park from west to east, solving puzzles tied to the statues, the benches and a small pool at the eastern end. The hidden message: a single word the writers leave behind for every generation.
 
 → [espa.epicscape.game](https://espa.epicscape.game)
 
-### 📚 Rikhardinkatu Library, Helsinki — *The Panda's Tooth Mystery*
+###  Rikhardinkatu Library, Helsinki — *The Panda's Tooth Mystery*
 The library's main hall is home to a wooden panda that has lost a tooth — and with it, the library has fallen into chaos. The children's section, the archives, the elevator and the upper floors: each holds a clue. The library is Epic Scape's longest-running partnership: two years, three contract renewals.
 
 → [riku.epicscape.game](https://riku.epicscape.game)
@@ -42,13 +42,13 @@ Other past live tracks include festival activations (Love & Anarchy Film Festiva
 
 | Feature | Description |
 |---|---|
-| 🌐 Browser-based | Runs entirely in mobile browser — no app needed |
-| 📍 Location-bound puzzles | Each puzzle tied to the physical environment |
-| 🗣️ Multilingual | Multiple languages per track, player selects at start |
-| 🔮 AR integration | Augmented reality elements without a separate app |
-| 🤖 AI-assisted content | Dynamic player-facing responses powered by AI |
-| 📊 Real-time dashboard | Supabase-powered analytics, PDF/CSV export |
-| 🍪 Memory layer *(in dev)* | Cookie-based cross-location place memorability tracking |
+| Browser-based | Runs entirely in mobile browser — no app needed |
+| Location-bound puzzles | Each puzzle tied to the physical environment |
+| Multilingual | Multiple languages per track, player selects at start |
+| AR integration | Augmented reality elements without a separate app |
+| AI-assisted content | Dynamic player-facing responses powered by AI |
+| Real-time dashboard | Supabase-powered analytics, PDF/CSV export |
+| Memory layer *(in dev)* | Cookie-based cross-location place memorability tracking |
 
 ---
 
@@ -104,13 +104,13 @@ Epic Scape delivers each track as a fully finished premium content solution. An 
 
 Epic Scape has been deployed in, or is designed for, the following venue types:
 
-- 🏛️ **Museums** — permanent and temporary exhibitions, indoor and outdoor
-- 📚 **Libraries** — public libraries, university libraries
-- 🌿 **City parks and public spaces** — open-air routes, urban exploration
-- 🛍️ **Shopping centres** — indoor multi-floor routes, seasonal activations
-- 🤝 **Conference and wellness centres** — team activities, customisable corporate experiences
-- 🎪 **Festivals and events** — time-limited activations with custom branding
-- ✈️ **Airports and transit hubs** — waiting time activation for travellers
+-  **Museums** — permanent and temporary exhibitions, indoor and outdoor
+-  **Libraries** — public libraries, university libraries
+-  **City parks and public spaces** — open-air routes, urban exploration
+-  **Shopping centres** — indoor multi-floor routes, seasonal activations
+-  **Conference and wellness centres** — team activities, customisable corporate experiences
+-  **Festivals and events** — time-limited activations with custom branding
+-  **Airports and transit hubs** — waiting time activation for travellers
 
 ---
 
