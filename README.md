@@ -155,5 +155,5 @@ The platform has been deployed in museums, libraries and city parks across Finla
 
 If you're a developer, designer or someone who finds this interesting — we're always open to a conversation. Whether it's a collaboration, a technical question or just curiosity about how this works in practice, feel free to reach out.
 
-📧 [jyri@epicscape.game](mailto:jyri@epicscape.game)
-🌐 [www.epicscape.game](https://www.epicscape.game)
+[jyri@epicscape.game](mailto:jyri@epicscape.game)
+[www.epicscape.game](https://www.epicscape.game)
