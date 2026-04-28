@@ -34,7 +34,7 @@ The library's main hall is home to a wooden panda that has lost a tooth — and 
 
 → [riku.epicscape.game](https://riku.epicscape.game)
 
-Other live tracks include festival activations (Love & Anarchy Film Festival), museum tracks (Punk Museum, Helsinki), and outdoor city tracks (Lahti's Matkustajasatama, Helsinki's Töölönlahti and Esplanade).
+Other past live tracks include festival activations (Love & Anarchy Film Festival), museum tracks (Punk Museum, Helsinki), and outdoor city tracks (Lahti's Matkustajasatama, Helsinki's Töölönlahti & Kaisaniemi).
 
 ---
 
