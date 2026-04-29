@@ -145,9 +145,7 @@ Epic Scape has been deployed in, or is designed for, the following venue types:
 
 ## About
 
-Epic Scape was founded in 2024 by **Jyri Puhakka** — a self-taught full-stack game designer with 15+ years as a special education teacher, certified work supervisor, and game-based learning consultant. Epic Scape is where these threads meet: learning, mystery, and movement — small moments of wonder where puzzles and the world around us come alive in unexpected ways.
-
-The platform has been deployed in museums, libraries and city parks across Finland, with over 1,400 players and a 4/5 average rating.
+Epic Scape is where learning, mystery, and movement meet. Founded by full-stack designer **Jyri Puhakka**, the platform distills 15 years of experience in special education and game-based consulting into a digital engine for physical exploration. Currently deployed in museums and city parks nationwide, it engaged over 1,400 players in the past year alone with an average rating of 4/5.
 
 ---
 
