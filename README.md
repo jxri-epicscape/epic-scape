@@ -142,6 +142,41 @@ Epic Scape uses the **Anthropic Claude API** to generate dynamic, context-aware 
 | Analytics | Custom dashboard with real-time Supabase queries |
 
 ---
+## AR Integration
+
+Epic Scape implements browser-native augmented reality using **MindAR** and **Three.js** — no app download required. When a player points their camera at a physical target in the real environment, the game overlays AR content directly in the mobile browser.
+
+### How it works
+
+- Image targets are compiled to `.mind` format and served via CDN
+- **MindAR** handles real-time image recognition and anchor tracking via the device camera
+- **Three.js** renders the AR overlay — banners, 3D objects or custom geometry — anchored to the detected target
+- A custom render loop drives the scene; anchor callbacks (`onTargetFound` / `onTargetLost`) control visibility and puzzle state
+- Once a target is locked for 2 seconds, the puzzle input form is revealed below the camera view
+
+### Configuration
+
+Each AR puzzle is fully configurable per track via the card data layer:
+
+| Property | Description |
+|---|---|
+| `arMode` | `banner`, `cube`, or custom 3D shape |
+| `arTargetSrc` | URL to compiled `.mind` image target |
+| `arBannerText` | Text rendered on the AR overlay |
+| `arFilterMinCF` / `arFilterBeta` | MindAR tracking sensitivity tuning |
+| `arObjectShape` / `arObjectColor` | 3D object properties |
+
+### Stack
+
+| Layer | Technology |
+|---|---|
+| AR tracking | MindAR (image target recognition) |
+| 3D rendering | Three.js (WebGL) |
+| Camera access | `navigator.mediaDevices.getUserMedia` |
+| Asset delivery | ImageKit CDN (`.mind` targets) |
+| Frontend | React + TypeScript |
+
+---
 
 ## Roadmap
 
