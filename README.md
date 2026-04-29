@@ -120,7 +120,8 @@ Epic Scape has been deployed in, or is designed for, the following venue types:
 
 ---
 
-AI Integration
+###AI Integration
+
 Epic Scape uses the Anthropic Claude API to generate dynamic, context-aware player-facing responses in real time. Rather than serving static text, the game engine constructs prompts based on the player's current puzzle state, location context and narrative position — and generates responses that feel alive and specific to that moment.
 How it works in practice:
 
