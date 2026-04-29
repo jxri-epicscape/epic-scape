@@ -120,23 +120,26 @@ Epic Scape has been deployed in, or is designed for, the following venue types:
 
 ---
 
-###AI Integration
+## AI Integration
 
-Epic Scape uses the Anthropic Claude API to generate dynamic, context-aware player-facing responses in real time. Rather than serving static text, the game engine constructs prompts based on the player's current puzzle state, location context and narrative position — and generates responses that feel alive and specific to that moment.
-How it works in practice:
+Epic Scape uses the **Anthropic Claude API** to generate dynamic, context-aware player-facing responses in real time. Rather than serving static text, the game engine constructs prompts based on the player's current puzzle state, location context and narrative position — and generates responses that feel alive and specific to that moment.
 
-Each puzzle step passes relevant context (location, narrative state, player progress) to the LLM via a Node.js proxy server
-The proxy handles API authentication, rate limiting and response formatting before returning content to the React/TypeScript frontend
-Prompt engineering controls tone, length and narrative voice — keeping responses consistent with the track's story world
-This approach eliminates manual content authoring for dynamic states, reducing track build time significantly
+### How it works in practice
 
-Stack:
+- Each puzzle step passes relevant context (location, narrative state, player progress) to the LLM via a Node.js proxy server
+- The proxy handles API authentication, rate limiting and response formatting before returning content to the React/TypeScript frontend
+- Prompt engineering controls tone, length and narrative voice — keeping responses consistent with the track's story world
+- This approach eliminates manual content authoring for dynamic states, reducing track build time significantly
 
-LLM: Anthropic Claude (claude-sonnet) via REST API
-Proxy: Node.js (TypeScript)
-Frontend: React + TypeScript
-Database: Supabase (PostgreSQL)
-Analytics: Custom dashboard with real-time Supabase queries
+### Stack
+
+| Layer | Technology |
+|---|---|
+| LLM | Anthropic Claude (claude-sonnet) via REST API |
+| Proxy | Node.js (TypeScript) |
+| Frontend | React + TypeScript |
+| Database | Supabase (PostgreSQL) |
+| Analytics | Custom dashboard with real-time Supabase queries |
 
 ---
 
