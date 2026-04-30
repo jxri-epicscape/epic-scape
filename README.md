@@ -207,6 +207,12 @@ Epic Scape is where learning, mystery, and movement meet. Founded by full-stack 
 
 ---
 
+## Interest in testing?
+It its possible: check out our newest, yet unpublished track: kirkkopuisto.epicscape.game
+It's using both AR and AI.
+
+---
+
 ## Get in Touch
 
 If you're a developer, designer or someone who finds this interesting — we're always open to a conversation. Whether it's a collaboration, a technical question or just curiosity about how this works in practice, feel free to reach out.
